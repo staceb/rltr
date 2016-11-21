@@ -13,3 +13,6 @@ pwu: [https://github.com/Dimrok/rltr/tree/master/folder1](https://github.com/Dim
 [root: 'pseudo absolute' (/)](/) doesn't work.
 
 [folder2: 'pseudo absolute' (/folder2)](/folder2) works.
+
+
+[root: relative (../)](../) works?
