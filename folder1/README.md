@@ -15,4 +15,4 @@ pwu: [https://github.com/Dimrok/rltr/tree/master/folder1](https://github.com/Dim
 [folder2: 'pseudo absolute' (/folder2)](/folder2) works.
 
 
-[root: relative (../)](../) works?
+[root: relative (../README)](../README) works?
